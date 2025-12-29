@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋It's Karan Joliya</h1>
 <h3 align="center">A Data Science & AI-ML Enthusiast from India</h3>
-<img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy.gif"  />
+<img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy1.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rioo09&label=Profile%20views&color=0e75b6&style=flat" alt="rioo09" /> </p>
 
@@ -64,6 +64,14 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="60" alt="vscode logo"  />
 </div>
 
+
+<h2 align="left">Streaks:</h2>
+<img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy.gif"  />
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=rioo09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+
 <h2 align="left">Contributions:</h2>
 
 <picture>
@@ -74,9 +82,6 @@
 
 <h2 align="left">Contribution Graphs:</h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rioo09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 <h3></h3>
 
