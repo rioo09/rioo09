@@ -63,7 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="60" alt="vscode logo"  />
 </div>
 
-
+<h2 align="left">Contributions:</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rioo09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
