@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋It's Karan Joliya</h1>
 <h3 align="center">A Data Science & AI-ML Enthusiast from India</h3>
+<img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/workflows/giphy.gif"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rioo09&label=Profile%20views&color=0e75b6&style=flat" alt="rioo09" /> </p>
 
@@ -67,7 +68,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rioo09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rioo09&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
