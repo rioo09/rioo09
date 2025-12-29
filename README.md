@@ -65,10 +65,12 @@
 </div>
 
 
-<h2 align="left">Streaks:</h2>
-<img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy.gif"  />
-<div align="right">
+<h2 align="lest">Streaks:</h2>
+
+<div align="center">
+   <img align="left" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy%20(1).gif"  />
   <img src="https://streak-stats.demolab.com?user=rioo09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img align="right" height="150" src="https://github.com/rioo09/rioo09/blob/main/.github/workflows/giphy.gif"  />
 </div>
 
 
